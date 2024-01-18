@@ -6,5 +6,8 @@ class Test{
         System.out.println(10/0);  //2.5
      
         System.out.println(10/2);     //5   
+
+        System.out.println(10/11);     //5   
+    
     }
 }
